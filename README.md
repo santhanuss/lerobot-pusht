@@ -5,9 +5,7 @@
 ![Platform](https://img.shields.io/badge/Platform-WSL%20Ubuntu-purple)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/santhanuss/lerobot-pusht)
-🧩 PART 1 — Title + One-line description
 
-Paste this at the top 👇
 
 # LeRobot PushT – ACT Policy Evaluation
 
@@ -17,9 +15,7 @@ This repository contains training checkpoints, evaluation videos, and notes from
 🔹 This tells what the repo is
 🔹 Clear, simple, no buzzwords
 
-🧩 PART 2 — What you actually did
 
-Add this below 👇
 
 ## What This Project Demonstrates
 
@@ -32,9 +28,6 @@ Add this below 👇
 🔹 Shows skills, not just results
 🔹 Anyone reading knows this was hands-on
 
-🧩 PART 3 — Repo structure (very important)
-
-Add this 👇
 
 ## Repository Structure
 
@@ -59,9 +52,6 @@ lerobot-pusht/
 🔹 Reviewers LOVE this
 🔹 Makes your repo readable in 5 seconds
 
-🧩 PART 4 — Training details (simple, honest)
-
-Add this 👇
 
 ## Training Details
 
@@ -75,10 +65,6 @@ Add this 👇
 
 ⚠️ Saying “demo run” is GOOD — it shows honesty and awareness.
 
-🧩 PART 5 — Evaluation results
-
-Add this 👇
-
 ## Evaluation
 
 - Episodes evaluated: 3
@@ -89,15 +75,7 @@ Add this 👇
 Note: Low success is expected due to very limited training steps. The goal of this project is to demonstrate the full training → evaluation → visualization pipeline.
 
 
-🔥 This line is important:
 
-“demonstrate the full pipeline”
-
-That’s exactly what you achieved.
-
-🧩 PART 6 — How to reproduce (optional but powerful)
-
-Add this 👇
 
 ## How to Reproduce
 
@@ -129,10 +107,6 @@ python src/lerobot/scripts/lerobot_eval.py \
 
 ---
 
-## 🧩 PART 7 — Closing (short & mature)
-
-Add this 👇
-
 ```markdown
 ## Notes
 
@@ -141,21 +115,10 @@ This project focuses on understanding policy behavior through evaluation videos 
 
 ---
 
-## ✅ Save & exit nano
 
-Press:
-```
-CTRL + O → Enter
-CTRL + X
 ```
 
 ---
-
-## 🌟 What you now have
-
-- A **real ML project README**
-- Not flashy, but **serious**
-- Perfect for GitHub, college, or future internships
 
 ---
 
