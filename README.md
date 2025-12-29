@@ -1,3 +1,10 @@
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![LeRobot](https://img.shields.io/badge/Framework-LeRobot-orange)
+![Environment](https://img.shields.io/badge/Env-PushT--v0-green)
+![Platform](https://img.shields.io/badge/Platform-WSL%20Ubuntu-purple)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/santhanuss/lerobot-pusht)
 🧩 PART 1 — Title + One-line description
 
 Paste this at the top 👇
@@ -363,3 +370,4 @@ CTRL + X
 6️⃣ Explain the videos *frame-by-frame* in simple language  
 
 Just reply with the number 😼
+
