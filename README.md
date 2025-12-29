@@ -371,3 +371,8 @@ CTRL + X
 
 Just reply with the number 😼
 
+## Evaluation Demo
+
+Click the video below to watch the trained ACT policy interacting with the PushT environment.
+
+[▶️ Watch evaluation rollout](results/eval_videos/eval_episode_0.mp4)
